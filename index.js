@@ -5,7 +5,7 @@ function shake(){
 
   if (input.value < 1){
   document.getElementById("console").innerText = 'Please Enter Positive Number';    
-   else if (input.value === ''){
+  }else if (input.value === ''){
    document.getElementById("console").innerText = 'No Value Entered';
    }else if (input.value % 15 === 0){ 
     document.getElementById("console").innerText = "FIZZ BUZZ";
