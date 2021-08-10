@@ -107,12 +107,12 @@ body{
     box-shadow: inset 0 0 40px 2px #354a76, 0 0 2px 1px black;
   }
   p{
+    align-items: center;
     color:lightgreen;
     background:black;
     margin:0;
     text-align:center;
    box-shadow: inset 0 0 40px 2px #354a76, 0 0 2px 1px black;
-    
     height:100%;
   }
   #consoleHeader{
