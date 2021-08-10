@@ -40,6 +40,7 @@ body{
     height:100%;
     border-left: 1px solid lightgreen;
     border-bottom: 1px solid lightgreen;
+    border-top: 1px solid lightgreen;
     
   }
   #output{
