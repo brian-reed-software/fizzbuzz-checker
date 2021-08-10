@@ -132,6 +132,8 @@ body{
     color:lightgreen;
     font-family:monospace;
     filter: drop-shadow(2px 4px 6px black);
+    filter: brightness(120%);
+    backdrop-filter: blur(3px);
      text-shadow: 0 0 10px lightgreen;
   }
   .blink_me {
