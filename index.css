@@ -138,7 +138,7 @@ body{
     filter: drop-shadow(2px 4px 6px black);
     filter: brightness(120%);
     backdrop-filter: blur(10px);
-     text-shadow: 0 0 10px lightgreen;
+    text-shadow: 0 0 10px lightgreen;
   }
   .blink_me {
     animation: blinker 1s linear infinite;
