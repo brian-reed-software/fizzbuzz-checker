@@ -17,7 +17,7 @@ function shake(){
   document.getElementById("console").innerText = 'BUZZ';
   document.getElementById('wrapper').className = 'shake';
   }else{
-    document.getElementById("console").innerText = ':(';
+    document.getElementById("console").innerText = 'No Fizz, No Buzz';
   }
     
     setTimeout(function(){ document.getElementById('wrapper').className = 'noshake';
