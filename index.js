@@ -5,7 +5,7 @@ function shake(){
   document.getElementById('wrapper').className = 'shake';
   
     
-   if (input.value === '0' || null){
+   if (input.value === '0' || null || 'undefined'){
    document.getElementById("console").innerText = '?';
    }else if (input.value % 15 === 0){ document.getElementById("console").innerText = alert(input);
   }else if (input.value % 2 === 0){
