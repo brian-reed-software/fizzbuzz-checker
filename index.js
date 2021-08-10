@@ -5,7 +5,7 @@ function shake(){
   document.getElementById('wrapper').className = 'shake';
   
     
-   if (input.value === ''){
+   if (input.value === '' || '0'){
    document.getElementById("console").innerText = '?';
    }else if (input.value % 15 === 0){ document.getElementById("console").innerText = "FIZZ BUZZ";
   }else if (input.value % 2 === 0){
