@@ -24,7 +24,11 @@ function shake(){
   document.getElementById('wrapper').className = 'shake';
   }else{
     document.getElementById("console").style.fontSize = '5vw';
-    document.getElementById("console").innerText = 'No Fizz, No Buzz';
+    document.getElementById("console").innerText = 'No Fizz'
+    setTimeout(function(){ 
+    document.getElementById("console").innerText = 'No Buzz'
+  },1000)
+    
   }
     
     setTimeout(function(){ document.getElementById('wrapper').className = 'noshake';
