@@ -176,3 +176,12 @@ body{
     }
     
   }
+
+  @media only screen and (max-width: 600px) {
+    
+    #wrapper{
+      color:lightgreen;
+      display:flex;
+      flex-direction:row;
+
+  }
