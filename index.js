@@ -4,7 +4,7 @@ function shake(){
   
 
   if (input.value == ''){
-  document.getElementById("console").style.fontSize = '20
+  document.getElementById("console").style.fontSize = '20';
   document.getElementById("console").innerText = 'Please Enter Number';    
   }else if (input.value < 0){
     
