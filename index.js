@@ -24,7 +24,9 @@ function shake(){
   }
     
     setTimeout(function(){ document.getElementById('wrapper').className = 'noshake';
-  document.getElementById("console").innerText = '';
+    
+    document.getElementById("console").style.fontSize = '36px';
+    document.getElementById("console").innerText = '';
   },2000)
   
   }
