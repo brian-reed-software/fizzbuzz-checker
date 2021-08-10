@@ -181,13 +181,13 @@ body{
     
 #secondWrapper{
       display:flex;
-      flex-direction:row;
+      flex-direction:column;
   }
-#console{
-    width:100%;
+#output{
+     width:100%;
   }
 #prep{
-  width:100%;
+    width:100%;
 }
   
 }
