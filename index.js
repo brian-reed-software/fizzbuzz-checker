@@ -6,7 +6,7 @@ function shake(){
   if (input.value == ''){
   document.getElementById("console").style.fontSize = '5vw';
   document.getElementById("console").innerText = 'Please Enter Number';    
-  }else if (input.value < 0){
+  }else if (input.value < 1){
     
    document.getElementById("console").style.fontSize = '5vw';
    document.getElementById("console").innerText = 'Positive Values Only';
