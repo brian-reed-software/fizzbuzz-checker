@@ -185,6 +185,8 @@ body{
   }
 #output{
      width:100%;
+     border-left: 0px solid black;
+     padding:0%;
   }
 #prep{
     width:100%;
