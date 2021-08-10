@@ -6,7 +6,7 @@ function shake(){
   
     
    if (input.value === '0' || null){
-   document.getElementById("console").innerText = input.value;
+   document.getElementById("console").innerText = '?';
    }else if (input.value % 15 === 0){ document.getElementById("console").innerText = alert(input);
   }else if (input.value % 2 === 0){
   docuwment.getElementById("console").innerText = 'FIZZ';
