@@ -7,6 +7,7 @@ function shake(){
   document.getElementById("console").innerText = 'Please Enter Number';    
   }else if (input.value < 0){
    document.getElementById("console").innerText = 'Positive Only';
+   document.getElementById("console").style.textSize = '10px';
    }else if (input.value % 15 === 0){ 
     document.getElementById("console").innerText = "FIZZ BUZZ";
     document.getElementById('wrapper').className = 'shake';
