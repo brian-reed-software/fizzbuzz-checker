@@ -179,9 +179,15 @@ body{
 
   @media only screen and (max-width: 600px) {
     
-    #wrapper{
-      color:lightgreen;
+#secondWrapper{
       display:flex;
       flex-direction:row;
-
   }
+#console{
+    width:100%;
+  }
+#prep{
+  width:100%;
+}
+  
+}
