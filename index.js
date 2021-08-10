@@ -6,8 +6,9 @@ function shake(){
   if (input.value == ''){
   document.getElementById("console").innerText = 'Please Enter Number';    
   }else if (input.value < 0){
-   document.getElementById("console").innerText = 'Positive Only';
-   document.getElementById("console").style.textSize = '10px';
+    
+   document.getElementById("console").style.fontSize = '14px';
+   document.getElementById("console").innerText = 'Positive Values Only';
    }else if (input.value % 15 === 0){ 
     document.getElementById("console").innerText = "FIZZ BUZZ";
     document.getElementById('wrapper').className = 'shake';
@@ -18,6 +19,7 @@ function shake(){
   document.getElementById("console").innerText = 'BUZZ';
   document.getElementById('wrapper').className = 'shake';
   }else{
+    document.getElementById("console").style.fontSize = '14px';
     document.getElementById("console").innerText = 'No Fizz, No Buzz';
   }
     
