@@ -1,1 +1,1 @@
-# Fizz or Buzz?
+# Fizz or Buzz application using JavaScript, CSS, and HTML.
