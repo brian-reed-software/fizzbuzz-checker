@@ -13,9 +13,7 @@ function shake(){
   document.getElementById("console").style.fontSize = '15vw';
   document.getElementById("console").innerText = "FIZZ"
   document.getElementById('wrapper').className = 'shake';
-  document.getElementById('wrapper').className = 'noshake';
   setTimeout(function(){ 
-  document.getElementById('wrapper').className = 'noshake';
   document.getElementById("console").style.fontSize = '14vw';
   document.getElementById("console").innerText = 'BUZZ'
   document.getElementById('wrapper').className = 'shake';
