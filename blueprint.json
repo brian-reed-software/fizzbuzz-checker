@@ -6,8 +6,8 @@
 	"text": "Fizz Buzz Chcker ,to see if your number is divisble by 2, 3, or 15; whcih will return 'Fizz', 'Buzz', or 'Fizz Buzz'.",
 	"logo": {
 		"src": "https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8",
-		"width": 150,
-		"height": 150
+		"width": 450,
+		"height": 250
 	},
 	"placeholder": [
 		"[[",
@@ -23,14 +23,14 @@
 	},
 	"badges": [
 		{
-			"alt": "Custom badge",
-			"url": "https://github.com/badges/shields",
-			"img": "https://img.shields.io/badge/custom-badge-f39f37.svg"
+			"alt": "",
+			"url": "",
+			"img": ""
 		},
 		{
-			"alt": "Maintained",
-			"img": "https://img.shields.io/badge/Maintained%3F-yes-green.svg",
-			"url": "https://github.com/andreasbm/readme/graphs/commit-activity"
+			"alt": "",
+			"img": "",
+			"url": ""
 		}
 	],
 	"bullets": {
