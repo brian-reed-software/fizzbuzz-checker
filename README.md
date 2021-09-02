@@ -10,4 +10,4 @@
 
 Demo
 
-[[ template:contributors ]]
+{{}} template:contributors }}
