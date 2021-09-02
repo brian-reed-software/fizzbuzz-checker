@@ -2,7 +2,4 @@
 
 Demo
 
-[[ bullets ]]
-
-📖 Table of Contents
-{{ template:contributors }}
+[[ template:contributors ]]
