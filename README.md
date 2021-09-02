@@ -15,4 +15,4 @@ Demo
 * **Awesome**: Only numbers please.
 
 📖 Table of Contents
-[[ template:contributors ]] 
+{{ template:contributors }}
