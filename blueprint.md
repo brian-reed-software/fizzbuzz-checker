@@ -1,2 +1,2 @@
-Welcome to {{ pkg.name }}. This is version {{ pkg.version }}!
+{{ template:title }}
 # Fizz or Buzz application using JavaScript, CSS, and HTML.
