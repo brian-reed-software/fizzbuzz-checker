@@ -11,7 +11,7 @@
 Demo
 
 * **Simple**: Extremely simple to use - so simple that it almost feels like magic!
-* **Powerful**: Select any number, psoive values only!
+* **Powerful**: Select any number, positive values only!
 * **Awesome**: Only numbers please.
 
 📖 Table of Contents
