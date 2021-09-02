@@ -1,4 +1,4 @@
-{   "name": "Fizz or Buzz application using JavaScript, CSS, and HTML.",
+{   "title": "Fizz or Buzz application using JavaScript, CSS, and HTML.",
 	"package": "package.json",
 	"blueprint": "blueprint.md",
 	"input": "blueprint.md",
