@@ -7,5 +7,3 @@
 <a href=""><img alt="" src="" height="20"/></a>
 <a href=""><img alt="" src="" height="20"/></a>
 	</p>
- [[ template:description ]]
-[[ template:contributors ]]
