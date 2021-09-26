@@ -16,7 +16,7 @@
     <br/>
     The app will return Fizz, Buzz, or FizzBuzz respectively.
     <br/>
-    Shows the steps to great the application, using Params, Return, Example, Psuedo Code. 
+    Shows the steps used to create the application, using Params, Return, Example, Psuedo Code. 
     <br/>
     Error check to ensure number is not negative, empty, or NaN. 
     <br/>
