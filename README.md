@@ -1,16 +1,3 @@
-<p align="center">Live Address</p>
-<p align="right">Copy Link Here 👇 </p>
-
-```
-https://fizzbuzz-checker.herokuapp.com/
-```
-
-<p align="center">Repository</p>
-<p align="right">Copy Link Here 👇 </p>
-
-```
-https://github.com/brian-reed-software/fizzbuzz-checker/
-```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -57,3 +44,17 @@ Error check to ensure number is not negative, empty, or NaN.
 
 </p>
 </p>
+
+```Live Address```
+<p align="right">Copy Link Here 👇 </p>
+
+```
+https://fizzbuzz-checker.herokuapp.com/
+```
+
+```Repository```
+<p align="right">Copy Link Here 👇 </p>
+
+```
+https://github.com/brian-reed-software/fizzbuzz-checker/
+```
