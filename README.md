@@ -12,22 +12,33 @@
       (view live demo)
      </a>
     <br/>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-```    A fun app to check and see if a number is divisble by 2 , 3 , or both.```
+``` 
+A fun app to check and see if a number is divisble by 2 , 3 , or both.
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
    
-```The app will return Fizz, Buzz, or FizzBuzz respectively.```
+```
+The app will return Fizz, Buzz, or FizzBuzz respectively.
+```
     
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
  
- ```Shows the steps used to create the application, using Params, Return, Example, Psuedo Code.```
+ ```
+ Shows the steps used to create the application, using Params, Return, Example, Psuedo Code.
+ ```
     
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-```Error check to ensure number is not negative, empty, or NaN.```
+
+```
+Error check to ensure number is not negative, empty, or NaN.
+```
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 </p>
