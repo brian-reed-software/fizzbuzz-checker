@@ -1,5 +1,19 @@
+<p align="center">Live Address</p>
+<p align="right">Copy Link Here 👇 </p>
+
+```
+https://fizzbuzz-checker.herokuapp.com/
+```
+
+<p align="center">Repository</p>
+<p align="right">Copy Link Here 👇 </p>
+
+```
+https://github.com/brian-reed-software/fizzbuzz-checker/
+```
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   <h3 align="center">  
     <a href="https://fizzbuzz-checker.herokuapp.com/" target="_blank">
       <img width="600px" src="https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8">
