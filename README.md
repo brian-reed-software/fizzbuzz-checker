@@ -1,12 +1,18 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><p align="center">
-  <img src="https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8" alt="Logo" width="450" height="250" />
-<<<<<<< HEAD
-</p> 
-{{ template:title }} <p align="center">
-		<a href="https://david-dm.org/brian-reed-software/fizzbuzz-checker"><img alt="Dependencies" src="https://img.shields.io/david/brian-reed-software/fizzbuzz-checker.svg" height="20"/></a>
-<a href="https://github.com/brian-reed-software/fizzbuzz-checker/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/brian-reed-software/fizzbuzz-checker.svg" height="20"/></a>
-<a href=""><img alt="" src="" height="20"/></a>
-<a href=""><img alt="" src="" height="20"/></a>
-	</p>
-=======
->>>>>>> a3fa67e327cf325fbfc3373c2fc112d55164eca8
+
+<p align="center">
+  <h3 align="center">  
+    <a href="https://fizzbuzz-checker.herokuapp.com/" target="_blank">
+      <img src="https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8">
+   
+</h3>
+
+  <p align="center">
+    Fizz Buzz Checker!
+    <br/>
+      (view live demo)
+     </a>
+    <br/>
+    <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  </p>
+</p>
