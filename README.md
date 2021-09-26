@@ -12,12 +12,24 @@
       (view live demo)
      </a>
     <br/>
-    A fun app to check an see if a number is divisble by 2 , 3 , or both.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+    A fun app to check and see if a number is divisble by 2 , 3 , or both.
+    
+    <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
     The app will return Fizz, Buzz, or FizzBuzz respectively.
+    
     <br/>
-    Shows the steps used to create the application, using Params, Return, Example, Psuedo Code. 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
+    Shows the steps used to create the application, using Params, Return, Example, Psuedo Code.
+    
+    <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+    <br/>
+
     Error check to ensure number is not negative, empty, or NaN. 
     <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
