@@ -14,7 +14,11 @@
     <br/>
     A fun app to check an see if a number is divisble by 2 , 3 , or both.
     <br/>
-    The app will return Fizz, Buzz, or FizzBuzz respectively. 
+    The app will return Fizz, Buzz, or FizzBuzz respectively.
+    <br/>
+    Shows the steps to great the application, using Params, Return, Example, Psuedo Code. 
+    <br/>
+    Error check to ensure number is not negative, empty, or NaN. 
     <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </p>
